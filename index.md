@@ -19,3 +19,7 @@ In addition, I am very interested in research in computational medicine and biol
 ## Publications
 
 1. Will happen *soon*
+
+Year | Award | Category
+-----|-------|--------
+2022 | Best Design | Won at Northwestern DTC Design Expo

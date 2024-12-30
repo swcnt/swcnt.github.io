@@ -10,11 +10,11 @@ Hello! I'm a junior at Northwestern University in Evanston, studying Chemical En
 
 I am passionate about sustainability, computing, and advanced fabrication methods. Beyond my work, I enjoy game design, puzzles, and electronic music.
 
-## Research Interest
+## Research Interests
 
 I am currently researching the doping of 2-D materials via organic surface functionalization. Before that, I was researching optoelectronic applications of single-walled carbon nanotubes and their purification via density gradient centrifugation and dialysis.
 
-In addition, I am very interested in research in computational medicine and biology, which I hope to begin this summer.
+In addition, I am very interested in research surrounding computational medicine and biology, which I hope to begin this summer.
 
 ## Publications
 

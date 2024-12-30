@@ -7,7 +7,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "/researcher/"
-footer_text: "Base layout by Ankit Sultana"
+footer_text: "Base layout by Ankit Sultana, Thank you :)"
 
 sass:
     style: compressed

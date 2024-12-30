@@ -6,7 +6,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "/researcher/"
+footer_url: "/"
 footer_text: "Thanks to Ankit Sultana for the base layout :)"
 
 sass:

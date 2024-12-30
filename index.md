@@ -4,17 +4,21 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="betaacrop.gif">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hello! I'm a junior at Northwestern University in Evanston, studying Chemical Engineering and Machine Learning. 
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+I am passionate about sustainability, computing, and advanced fabrication methods. Beyond my work, I enjoy game design, puzzles, and electronic music.
+
+
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+I am currently researching the doping of 2-D materials via organic surface functionalization. Before that, I was researching optoelectronic applications of single-walled carbon nanotubes and their purification via density gradient centrifugation and dialysis.
 
-## Publications
+In addition, I am very interested in research in computational medicine and biology, which I hope to begin this summer.
+<!---
+## Publications (it will happen someday)
 
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
@@ -24,6 +28,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 This is a [link](http://google.com). Something *italics* and something **bold**.
 
 Here is a table
+-->
 
 Year | Award | Category
 -----|-------|--------
